@@ -1,0 +1,33 @@
+#main {
+  background-color: palegreen;
+  height: 500px;
+  position: relative;
+  margin-top: 50px;
+}
+#main .row {
+  height: 100%;
+  position: relative;
+}
+#main span {
+  background-color: skyblue;
+  transition: all .5s;
+  height: 70px;
+}
+#main .tit-1 {
+  background-color: violet;
+}
+#main .tit-2 {
+  background-color: aliceblue;
+}
+#main .tit-3 {
+  background-color: #aaa;
+}
+#main .tit-4 {
+  background-color: #666;
+}
+#main .tit-5 {
+  background-color: #1ee07f;
+}
+#main .tit-6 {
+  background-color: #e66798;
+}
